@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Radiology & Imaging",
+        "img": "https://media.istockphoto.com/photos/side-view-of-sitting-woman-radiologist-comparing-magnetic-resonance-picture-id1320844635?s=612x612",
+        "description": "Radiology & Imaging (X-ray, MRI, CT scan, mammography, ultrasound, etc.)"
+    },
+    {
+        "id": "2",
+        "name": "Nuclear Medicine",
+        "img": "https://www.iaea.org/sites/default/files/styles/original_image_size/public/ninmas1140x640.jpg?itok=AvQaUhrJ",
+        "description": "Cardiac scan, hepatobilliary scan, bone scan, renogram"
+    },
+    {
+        "id": "3",
+        "name": "Cardiology",
+        "img": "https://www.cdi.org.in/wp-content/uploads/2021/05/Best-Cardiology-Doctor-near-me-Book-Instant-Appointment-min.jpg",
+        "description": "ECG, ETT, Echocardiogram, TMT,ECG, ETT,Echocardiogram, "
+    },
+    {
+        "id": "4",
+        "name": "Urology",
+        "img": "https://media.istockphoto.com/photos/medical-worker-shows-the-urinary-system-picture-id1171778559?s=612x612",
+        "description": "Urodynamic studies, 23-year-old Ruxin scrolls her social"
+    },
+    {
+        "id": "5",
+        "name": "General & Lap Surgery",
+        "img": "https://5.imimg.com/data5/OG/PZ/ZR/SELLER-46098431/laparoscopic-general-surgery-service-500x500.png",
+        "description": " she is looking for something very specific - updates about cosmetic surgery"
+    },
+    {
+        "id": "6",
+        "name": "Plastic Surgery",
+        "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12CC1/production/_119239967_gettyimages-1323717848.jpg",
+        "description": "Like many of her peers, 23-year-old Ruxin scrolls her social media feed every day"
+    }
+]

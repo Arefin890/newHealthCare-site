@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "name": "DR. SAMI FADDOUL",
+        "img": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "expertise": "GENERAL RADIOLOGY",
+        "fee": 500
+    },
+    {
+        "id": "2",
+        "name": "DR. ANIS NASSAR",
+        "img": "https://images.unsplash.com/photo-1574434273760-54ce56c94c33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "expertise": "INTERVENTIONAL RADIOLOGY",
+        "fee": 500
+    },
+    {
+        "id": "3",
+        "name": "DR. CARLA RAZZOUK",
+        "img": "https://images.unsplash.com/photo-1594658979472-b3d920f2eb3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "expertise": "MEDICINE & GENERAL RADIOLOGY",
+        "fee": 500
+    },
+    {
+        "id": "4",
+        "name": "DR. Abul Kalam",
+        "img": "https://images.unsplash.com/photo-1603843722974-3a4031f9f97c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+        "expertise": "BONE DENSITOMETRY",
+        "fee": 500
+    },
+    {
+        "id": "5",
+        "name": "DR. Mukta begum",
+        "img": "https://images.unsplash.com/photo-1587500154541-1cafd74f0efc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "expertise": "GENERAL AND CARDIAC ULTRASOUND",
+        "fee": 500
+    },
+    {
+        "id": "6",
+        "name": "DR. Wazuddin",
+        "img": "https://images.unsplash.com/photo-1622902046580-2b47f47f5471?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+        "expertise": "MAGNETIC RESONANCE IMAGING (MRI)",
+        "fee": 500
+    },
+    {
+        "id": "7",
+        "name": "DR. SAMI FADDOUL",
+        "img": "https://images.unsplash.com/photo-1618498082410-b4aa22193b38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "expertise": "GENERAL RADIOLOGY",
+        "fee": 500
+    },
+    {
+        "id": "8",
+        "name": "DR. ANIS NASSAR",
+        "img": "https://images.unsplash.com/photo-1612349316228-5942a9b489c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "expertise": "INTERVENTIONAL RADIOLOGY",
+        "fee": 500
+    },
+    {
+        "id": "9",
+        "name": "DR. CARLA RAZZOUK",
+        "img": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "expertise": "MEDICINE & GENERAL RADIOLOGY",
+        "fee": 500
+    },
+    {
+        "id": "10",
+        "name": "DR. Ruksana",
+        "img": "https://images.unsplash.com/photo-1614608682468-f0e22796f633?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
+        "expertise": "BONE DENSITOMETRY",
+        "fee": 500
+    },
+    {
+        "id": "11",
+        "name": "DR. Fyhur Rahaman",
+        "img": "https://images.unsplash.com/photo-1605684954998-685c79d6a018?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "expertise": "GENERAL AND CARDIAC ULTRASOUND",
+        "fee": 500
+    },
+    {
+        "id": "12",
+        "name": "DR. Sania Sani",
+        "img": "https://images.unsplash.com/photo-1612776572997-76cc42e058c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+        "expertise": "MAGNETIC RESONANCE IMAGING (MRI)",
+        "fee": 500
+    }
+]
